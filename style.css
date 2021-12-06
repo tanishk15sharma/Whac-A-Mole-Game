@@ -53,6 +53,18 @@ html {
     z-index: 2;
     bottom: -30px;
   }
+
+  .btn {
+      padding: 1rem;
+      text-align: center;
+      font-weight: bolder;
+      margin-left: 630px;
+      border-radius: 10px;
+      font-size: 30px;
+      cursor: grab;
+      font-family: cursive;
+      
+  }
   
   .mole {
     background: url('mole.svg') bottom center no-repeat;
