@@ -63,7 +63,17 @@ html {
       font-size: 30px;
       cursor: grab;
       font-family: cursive;
+      background: #B45309;
+      color:#FEF3C7;
+      transition-duration: 0.2s;
+
       
+  }
+  .btn:hover {
+      background: #FEF3C7;
+      color: #B45309;
+
+    
   }
   
   .mole {
